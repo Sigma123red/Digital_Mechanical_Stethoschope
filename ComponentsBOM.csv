@@ -1,0 +1,13 @@
+Component_Name,Price (USD),Vendor,Brand,Quantity
+LED(Red),0.50,Amazon,None,1
+LED(Green),0.50,Amazon,None,1
+Arduino_Nano,13.99,Amazon,Lafvin,3
+BatteryPack4xAA,5.98,Amazon,LampVpath,2
+PassiveBuzzer,5.99,Amazon,UMLIFE,20
+Perboard(100x150mm),8.79,Amazon,FOCMKEAS,5
+Potentiometer,1,Amazon,None,2
+LCD16x2,1.50,Amazon,None,2
+Piezolectric,8.49,Amazon,Hiletgo,5
+Resistors,N/A,Included_in_Kit,Arduino,50
+Capacitors,N/A,Included_in_Kit,Arduino,10
+4XAA_batteries,21.79,Amazon,Duracell,24
